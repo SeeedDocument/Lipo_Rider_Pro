@@ -72,7 +72,7 @@ The dimensions of LiPo Rider Pro is like the [6A Lithium Polymer Battery](https:
 
 ####LED Battery Indicator
 
-The LiPo Rider Pro has four LED battery indicators like the cell phone,and you can see the battery power by just pressing the button K2 like below: 
+The LiPo Rider Pro has four LED battery indicators like the cell phone,and you can see the battery power by just pressing the button K2.
 
 LED battery indicator parameter:
 
