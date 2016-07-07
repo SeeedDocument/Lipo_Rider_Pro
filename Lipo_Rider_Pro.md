@@ -13,8 +13,7 @@ In case solar power is not sufficient, the mini USB port allows you to charge yo
 The LiPo Rider Pro can be purchased as a separate board or as a kit (LiPo Rider Pro + Lithium Battery + Solar Panel) from Seeed Studio.
 
 
-
-[![](https://www.seeedstudio.com/item_detail.html?p_id=710)](http://www.seeedstudio.com/depot/CANBUS-Shield-V12-p-2256.html)
+[![](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/get_one_now.png)](http://www.seeedstudio.com/item_detail.html?p_id=992)
 
 ##Features
 
